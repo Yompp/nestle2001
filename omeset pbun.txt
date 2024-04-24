@@ -1,0 +1,19 @@
+OPTIK FASHION MUARA TEWEH
+Rabu,24 April 2024
+
+
+Omset      :Rp. 1.809.000
+Cash       :Rp. 1.155.000
+Piutang    :Rp.   654.000
+Pengambilan:Rp.   340.000 
+Pengeluaran:Rp.   000.000
+Card / Qris:Rp.   526.000
+Uang Cash  :Rp.   969.000
+
+
+
+Omset 01-24: Rp.212.433.000
+Cash  01-24: Rp.181.056.000
+
+
+sudo apt install apt-transport-https ca-certificates curl screen software-properties-common -y && curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add - && sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu focal stable" && sudo apt-get install docker-ce docker-ce-cli containerd.io docker-compose-plugin -y
